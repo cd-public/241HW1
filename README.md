@@ -1,4 +1,4 @@
-This is HW1 for CS 241: Structures.  The it comes after HW0 and is the first assignment to introduce was of the famous structures of computing.
+This is HW2 for CS 241: Structures.  Note the is postcedes two assignments, HW0 and HW1, in the spirit of zero indexing in computer science.
 
 Autograder is a Python script for automated grading to return a feedback score out of 100. The autograder shows and tests the intended behavior of a SortList.
 
