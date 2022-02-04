@@ -8,7 +8,7 @@
 
 # With the following public methods:
 #  - insert: given input data, returns as output the list with that data added
-#  - insert: given input data, returns as output the list with that data no longer present
+#  - remove: given input data, returns as output the list with that data no longer present
 #  - contains: given input data, returns True if the data is in the list, False otherwise
 #  - size: given no inputs, return a integer giving the size of the list
 #  - index: given an input integer i, return the ith smallest element of the list, starting from zero or None of if the index is too ldatae
