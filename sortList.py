@@ -11,7 +11,7 @@
 #  - remove: given input data, returns as output the list with that data no longer present
 #  - contains: given input data, returns True if the data is in the list, False otherwise
 #  - size: given no inputs, return a integer giving the size of the list
-#  - index: given an input integer i, return the ith smallest element of the list, starting from zero or None of if the index is too ldatae
+#  - index: given an input integer i, return the ith smallest element of the list, starting from zero, or None if the index is out of range
 
 # Use None to denote a list with no elements
 
